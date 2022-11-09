@@ -1,0 +1,7 @@
+<svg data-name="Group 40" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g data-name="Rectangle 22" style="stroke:#313131;fill:none">
+        <path style="stroke:none" d="M0 0h40v40H0z"/>
+        <path style="fill:none" d="M.5.5h39v39H.5z"/>
+    </g>
+    <path data-name="Icon awesome-facebook-f" d="m14.433 14.412.712-4.637H10.7V6.766a2.318 2.318 0 0 1 2.614-2.505h2.023V.313A24.667 24.667 0 0 0 11.742 0c-3.665 0-6.06 2.221-6.06 6.241v3.534H1.609v4.637h4.073v11.21H10.7v-11.21z" transform="translate(10.391 7)" style="fill:#313131"/>
+</svg>
